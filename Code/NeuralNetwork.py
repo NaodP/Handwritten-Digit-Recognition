@@ -40,9 +40,6 @@ class NeuralNetwork():
     def errorDerivative(self, output, expected):
         return output - expected
 
-    def rand(self, x):
-        return 1
-
     # Forward Propagation
     def forwardProp(self, inputs):
         outputValues = []
