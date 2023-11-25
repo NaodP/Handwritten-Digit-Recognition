@@ -1,0 +1,15 @@
+# Get Pixel Value For JPG
+# import matplotlib.image as mpimg
+# import matplotlib.pyplot as plt
+# from PIL import Image
+
+# img = Image.open('Final Digit Detection/Data/img_10004.jpg')
+# px = img.load()
+
+# imagePixels = []
+
+# for i in range(0,28):
+#     for j in range(0,28):
+#         imagePixels.append(int(px[i,j])/255)
+
+# print(imagePixels)
